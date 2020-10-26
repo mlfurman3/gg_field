@@ -97,6 +97,12 @@ ggplot() +
 
 ## Pretty Color Palettes
 
-Think beyond the green field! Using color palettes from packages like `RColorBrewer`, you can create some beautiful field designs.
+Think beyond the green field! Using color palettes from packages like `RColorBrewer`, you can create some beautiful field designs. (Code in `gg_field_examples.R`)
 
 ![RColorBrewer fields](img/gg_field_rcolorbrewer.png)
+
+## Acknowledgements
+
+Inspiration for this idea came from seeing a similar hockey version called [gg_rink](https://github.com/mtthwastn/statswithmatt/tree/master/hockey-with-r), developed by Matt Austin.
+ 
+Huge thank you to my 2020 Big Data Bowl teammates Asmae Toumi, Tony Elhabr, and Sydney Robinson for all their help with development, feedback, and testing!
