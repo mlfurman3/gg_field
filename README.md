@@ -1,9 +1,9 @@
 
 ## Introduction
 
-Welcome to gg_field!
+Welcome to `gg_field`!
 
-Inspired by the NFL's Big Data Bowl, gg_field is a tidy way to incorporate an NFL field into your plotting workflow.
+Inspired by Matt Austin's [gg-rink](https://github.com/mtthwastn/statswithmatt/tree/master/hockey-with-r), `gg_field()` is a tidy way to incorporate an NFL field into your data viz workflow.
 
 The `gg_field()` function creates a list of `ggplot2` annotations, and it can be added to a `ggplot()` call with a `+` before adding other geom layers. 
 
@@ -102,7 +102,5 @@ Think beyond the green field! Using color palettes from packages like `RColorBre
 ![RColorBrewer fields](img/gg_field_rcolorbrewer.png)
 
 ## Acknowledgements
-
-Inspiration for this idea came from seeing a similar hockey version called [gg_rink](https://github.com/mtthwastn/statswithmatt/tree/master/hockey-with-r), developed by Matt Austin.
  
 Huge thank you to my 2020 Big Data Bowl teammates Asmae Toumi, Tony Elhabr, and Sydney Robinson for all their help with development, feedback, and testing!
